@@ -1,1 +1,1 @@
-微信公众号 Delphi SDK
+微信公众平台 Delphi SDK
