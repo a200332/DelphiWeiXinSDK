@@ -7,12 +7,12 @@ used
 var  
   App: IwxApp;  
 begin  
-  App := TwxAppBuilder.AppId('编号').Secret('密码').Build;  
-  App.GetMenuInfo;  
-  App.GetUserList;  
-  App.DownloadMedia;   
-  //...  
-  // ...  
+&nbsp;&nbsp;App := TwxAppBuilder.AppId('编号').Secret('密码').Build;  
+&nbsp;&nbsp;App.GetMenuInfo;  
+&nbsp;&nbsp;App.GetUserList;  
+&nbsp;&nbsp;App.DownloadMedia;   
+&nbsp;&nbsp;//...  
+&nbsp;&nbsp;// ...  
 end;  
   
 有疑问联系qq：724464297
