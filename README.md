@@ -7,7 +7,7 @@ used
 var  
   App: IwxApp;  
 begin  
-&nbsp;&nbsp;App := TwxAppBuilder.AppId('编号').Secret('密码').Build;  
+&nbsp;&nbsp;App := TwxAppBuilder.New.AppId('编号').Secret('密码').Build;  
 &nbsp;&nbsp;App.GetMenuInfo;  
 &nbsp;&nbsp;App.GetUserList;  
 &nbsp;&nbsp;App.DownloadMedia;   
