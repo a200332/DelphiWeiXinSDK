@@ -13,6 +13,10 @@ begin
 &nbsp;&nbsp;App.DownloadMedia;   
 &nbsp;&nbsp;//...  
 &nbsp;&nbsp;// ...  
-end;  
+end;   
+
+引用的其他库
+https://github.com/ahausladen/JsonDataObjects  
+https://github.com/danieleteti/delphiredisclient  
   
 有疑问联系qq：724464297
